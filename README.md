@@ -12,19 +12,7 @@ A **Flutter-based mobile application** that helps users schedule and manage thei
 - Delete medicines once taken.
 - Easy-to-use UI with **Teal and Orange color theme**.
 
----
 
-## 📱 Screenshots
-
-**Home Screen:**  
-![Home Screen](assets/images/home_screen.png)
-
-**Add Medicine Screen:**  
-![Add Medicine Screen](assets/images/add_medicine_screen.png)
-
-*Replace with actual screenshots from your project.*
-
----
 
 ## ⚙️ Technology Stack
 
