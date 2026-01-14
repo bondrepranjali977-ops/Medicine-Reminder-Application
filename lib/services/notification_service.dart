@@ -10,6 +10,7 @@ class NotificationService {
   // Initialize notifications
   static Future<void> init() async {
     tzData.initializeTimeZones();
+  
 
     const AndroidInitializationSettings androidSettings =
         AndroidInitializationSettings('@mipmap/ic_launcher');
